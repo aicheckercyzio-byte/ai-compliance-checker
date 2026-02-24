@@ -3,7 +3,7 @@ import { getAuth, GoogleAuthProvider } from "firebase/auth";
 import { getFirestore } from "firebase/firestore";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyCwqPYQ8aGIuOUnk32DxPVyPpgH5BsGFc",
+  apiKey: "AIzaSyCwqPYQ8aGIuOUnk32DxPVyPpgH5BsGFc", // Diambil dari gambar Anda
   authDomain: "content-shield-cyzio.firebaseapp.com",
   projectId: "content-shield-cyzio",
   storageBucket: "content-shield-cyzio.firebasestorage.app",
